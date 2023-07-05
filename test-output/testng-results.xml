@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser..]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on My AccountPage button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Home Page sign In button]]>
+    </line>
+    <line>
+      <![CDATA[reading data]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Enter Mobile Number button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In with password button]]>
+    </line>
+    <line>
+      <![CDATA[reading data]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Enter Password button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on MyAccount button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on My Profile button]]>
+    </line>
+    <line>
+      <![CDATA[Switching to Child Page]]>
+    </line>
+    <line>
+      <![CDATA[reading data]]>
+    </line>
+    <line>
+      <![CDATA[Namita Niraj Patil]]>
+    </line>
+    <line>
+      <![CDATA[Namita Niraj Patil]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot..]]>
+    </line>
+    <line>
+      <![CDATA[Logging out]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-03T14:36:30 IST" name="Default suite" finished-at="2023-07-03T14:37:56 IST" duration-ms="85416">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T14:36:30 IST" name="Default test" finished-at="2023-07-03T14:37:56 IST" duration-ms="85416">
+      <class name="test.ValidateUserName">
+        <test-method is-config="true" signature="luanchPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:36:30 IST" name="luanchPolicyBazar" finished-at="2023-07-03T14:37:00 IST" duration-ms="30008" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser..]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on My AccountPage button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- luanchPolicyBazar -->
+        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:00 IST" name="signInToPolicyBazar" finished-at="2023-07-03T14:37:28 IST" duration-ms="27540" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Home Page sign In button]]>
+            </line>
+            <line>
+              <![CDATA[reading data]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Enter Mobile Number button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign In with password button]]>
+            </line>
+            <line>
+              <![CDATA[reading data]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Enter Password button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on MyAccount button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on My Profile button]]>
+            </line>
+            <line>
+              <![CDATA[Switching to Child Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInToPolicyBazar -->
+        <test-method signature="validateUserName1()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:28 IST" name="validateUserName1" finished-at="2023-07-03T14:37:50 IST" duration-ms="22047" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading data]]>
+            </line>
+            <line>
+              <![CDATA[Namita Niraj Patil]]>
+            </line>
+            <line>
+              <![CDATA[Namita Niraj Patil]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName1 -->
+        <test-method is-config="true" signature="logoutFromPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:50 IST" name="logoutFromPolicyBazar" finished-at="2023-07-03T14:37:52 IST" duration-ms="2498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutFromPolicyBazar -->
+        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:52 IST" name="closePolicyBazar" finished-at="2023-07-03T14:37:56 IST" duration-ms="3130" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closePolicyBazar -->
+      </class> <!-- test.ValidateUserName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
