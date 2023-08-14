@@ -56,12 +56,12 @@
       <![CDATA[Closing browser...]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-03T14:36:30 IST" name="Default suite" finished-at="2023-07-03T14:37:56 IST" duration-ms="85416">
+  <suite started-at="2023-07-24T15:59:27 IST" name="Default suite" finished-at="2023-07-24T16:00:26 IST" duration-ms="58626">
     <groups>
     </groups>
-    <test started-at="2023-07-03T14:36:30 IST" name="Default test" finished-at="2023-07-03T14:37:56 IST" duration-ms="85416">
+    <test started-at="2023-07-24T15:59:27 IST" name="Default test" finished-at="2023-07-24T16:00:26 IST" duration-ms="58626">
       <class name="test.ValidateUserName">
-        <test-method is-config="true" signature="luanchPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:36:30 IST" name="luanchPolicyBazar" finished-at="2023-07-03T14:37:00 IST" duration-ms="30008" status="PASS">
+        <test-method is-config="true" signature="luanchPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-24T15:59:27 IST" name="luanchPolicyBazar" finished-at="2023-07-24T15:59:54 IST" duration-ms="26963" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching browser..]]>
@@ -71,7 +71,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- luanchPolicyBazar -->
-        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:00 IST" name="signInToPolicyBazar" finished-at="2023-07-03T14:37:28 IST" duration-ms="27540" status="PASS">
+        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-24T15:59:54 IST" name="signInToPolicyBazar" finished-at="2023-07-24T16:00:19 IST" duration-ms="24698" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on Home Page sign In button]]>
@@ -105,7 +105,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- signInToPolicyBazar -->
-        <test-method signature="validateUserName1()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:28 IST" name="validateUserName1" finished-at="2023-07-03T14:37:50 IST" duration-ms="22047" status="PASS">
+        <test-method signature="validateUserName1()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-24T16:00:19 IST" name="validateUserName1" finished-at="2023-07-24T16:00:23 IST" duration-ms="4326" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[reading data]]>
@@ -121,14 +121,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateUserName1 -->
-        <test-method is-config="true" signature="logoutFromPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:50 IST" name="logoutFromPolicyBazar" finished-at="2023-07-03T14:37:52 IST" duration-ms="2498" status="PASS">
+        <test-method is-config="true" signature="logoutFromPolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-24T16:00:23 IST" name="logoutFromPolicyBazar" finished-at="2023-07-24T16:00:24 IST" duration-ms="1146" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logging out]]>
             </line>
           </reporter-output>
         </test-method> <!-- logoutFromPolicyBazar -->
-        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-03T14:37:52 IST" name="closePolicyBazar" finished-at="2023-07-03T14:37:56 IST" duration-ms="3130" status="PASS">
+        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:test.ValidateUserName@19e4653c]" started-at="2023-07-24T16:00:24 IST" name="closePolicyBazar" finished-at="2023-07-24T16:00:26 IST" duration-ms="1284" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing browser...]]>
